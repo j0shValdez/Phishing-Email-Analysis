@@ -24,10 +24,17 @@ This project focused on understanding and **analyzing phishing email attacks**, 
 
 # Table of Contents
 
-- [Understanding Phishing](#vulnerability-management-policy-draft-creation)
-- [Analyzing the Email Header](#step-2-mock-meeting-policy-buy-in-stakeholders)
-- [Analyzing the Email Body](#step-3-policy-finalization-and-senior-leadership-sign-off)
-- [Analysis of Phising Email](#step-4-mock-meeting-initial-scan-permission-server-team)
+- [Understanding a Phishing Email](#understanding-phishing)
+- [Analyzing the Email Header](#analyzing-the-email-header)
+- [Analyzing the Email Body](#analyzing-the-email-body)
+- [Analysis of Phishing Email](#analysis-of-phishing-email)
+  - [Step 1: Installing and Running Windows 11 via VMware Fusion](#step-1-installing-and-running-windows-11-via-vmware-fusion)
+  - [Step 2: Opening and Analyzing Email Body](#step-2-opening-and-analyzing-email-body)
+  - [Step 3: Extracting Email Header](#step-3-extracting-email-header)
+  - [Step 4: Analyzing the Email Header](#step-4-analyzing-the-email-header)
+  - [Step 5: Summary of Findings and Takeaways](#step-5-summary-of-findings-and-takeaways)
+- [Summary](#step-5-summary-of-findings-and-takeaways)
+
 
 ---
 
